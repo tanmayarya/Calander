@@ -1,4 +1,7 @@
 function setToday() {
+var v="month"
+var al="week"
+var des="day"
 var now   = new Date();
 var day   = now.getDate();
 var month = now.getMonth();
